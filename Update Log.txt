@@ -1,0 +1,19 @@
+// Update 1
+
+Overhauled the Agency Bootstrap theme to achieve a basic, but still modern looking homepage.
+
+
+// Update 2
+
+Implemented MailChimp for an e-mail system so that interested users may stay up-to-date with any major changes or developments with the app.
+
+
+// Update 3
+
+Added Google Analytics support to monitor website performance.
+
+
+
+// Update 4
+
+Wufoo Form Builder was finally added to allow for user-registration in a very simplistic manner. Only supports 100 registrations per month on the free version, so a larger scale app will need to upgrade or develop their own system.
